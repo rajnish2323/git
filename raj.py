@@ -14,3 +14,6 @@ result = step3(step2(step1(data)))
 
 print("rajnish")
 print("rajveerrrr")
+
+arr = [2,3,4,5,6,7]
+print(arr)
